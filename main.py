@@ -20,27 +20,3 @@ else:
     loadinganimation.loadinganim()
   replit.clear()
   print('haha their is nothing here yet')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
